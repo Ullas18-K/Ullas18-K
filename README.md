@@ -40,24 +40,46 @@ Currently deepening backend expertise, focused on shipping applications and expl
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/>
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>
-[![My Skills](https://skillicons.dev/icons?i=github,express,wasm)](https://skillicons.dev)
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>          
           
           
 </p>
 
-📌 What I Care About
-Writing readable, maintainable code
-Understanding how things work internally
-Building projects that solve real problems
+---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ullas18-K&show_icons=true&theme=dark&hide_border=true" /> </p>
-🤝 Let's Connect
+### 🤝 Let’s Connect
+<p>
+  <a href="https://www.linkedin.com/in/ullas-y-28743731a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ullasaacharya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Ullas_Achar_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
+</p>
 
-💼 LinkedIn: (add later if you want)
+---
 
-📧 Email: (optional)
+### 📊 GitHub Stats
 
-<p align="center"> <i>“Consistency beats motivation.”</i> </p> ```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ullas18-K&label=Profile%20Views&color=grey&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ullas18-K&show_icons=true&hide_border=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ullas18-K&layout=compact&hide_border=true&theme=dark" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ullas18-K&hide_border=true&theme=dark" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Consistency over intensity.</i>
+</p>
+
