@@ -68,7 +68,10 @@ Currently deepening backend expertise, focused on shipping applications and expl
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ullas18-K&label=Profile%20Views&color=grey&style=flat" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ullas18-K)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ullas18-K&theme=default&hide_border=true"/>
+</p>
+
 
 ---
 
