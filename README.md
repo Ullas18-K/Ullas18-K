@@ -22,7 +22,7 @@ Frontend    : HTML • CSS • JavaScript
 Backend     : Node.js • Express
 Database    : MySQL • MongoDB
 Tools       : Git • GitHub • Postman
-
+```
 📌 What I Care About
 Writing readable, maintainable code
 Understanding how things work internally
