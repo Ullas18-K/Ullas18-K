@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ullas 👋</h1>
+<h1 align="center">Yo!, I'm Ullas 👋</h1>
 
 <p align="center">
   Computer Science student • Developer • Problem Solver
@@ -15,8 +15,8 @@ Currently deepening backend expertise, focused on shipping applications and expl
 
 ---
 
-### 🧰 Tech Stack
 ### Tech Stack
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
@@ -47,34 +47,29 @@ Currently deepening backend expertise, focused on shipping applications and expl
 
 ---
 
-### 🤝 Let’s Connect
+### Let’s Connect
 <p>
   <a href="https://www.linkedin.com/in/ullas-y-28743731a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="36"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ullasaacharya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="36"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Ullas_Achar_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="36"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ullas18-K&label=Profile%20Views&color=grey&style=flat" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ullas18-K&show_icons=true&hide_border=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ullas18-K&layout=compact&hide_border=true&theme=dark" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ullas18-K&hide_border=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ullas18-K&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ullas18-K&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
