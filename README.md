@@ -16,13 +16,16 @@
 ---
 
 ### 🧰 Tech Stack
-```text
-Languages   : C++ • Java • JavaScript
-Frontend    : HTML • CSS • JavaScript
-Backend     : Node.js • Express
-Database    : MySQL • MongoDB
-Tools       : Git • GitHub • Postman
-```
+### Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
 📌 What I Care About
 Writing readable, maintainable code
 Understanding how things work internally
