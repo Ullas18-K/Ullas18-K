@@ -1,4 +1,4 @@
-<h1 align="center">Yo!, I'm Ullas 👋</h1>
+<h1 align="center">Hello!, I'm Ullas 👋</h1>
 
 <p align="center">
   Computer Science student • Developer • Problem Solver
